@@ -11,8 +11,8 @@
       <a name="prerequisite"></a>
    * [Tools-Frameworks](#Tools-Frameworks)
       <a name="Tools-Frameworks"></a>
-   * [Datasets-used](#Datasets-used)
-      <a name="Datasets-used"></a>
+   * [Dataset-used](#Dataset-used)
+      <a name="Dataset-used"></a>
    * [Installation](#Installation)
       <a name="Installation"></a>
    * [For-execution-of-the-project](#For-execution-of-the-project)
