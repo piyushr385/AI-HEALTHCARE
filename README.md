@@ -85,6 +85,10 @@ and Flask framework.
 2. set FLASK_ENV=development
 3. flask run
 
+OR 
+
+* python app.py
+
 ## Project created by :
 * [Piyush Rane](https://www.linkedin.com/in/piyushrane/ "Piyush Rane")
 * [Meghdeep Sapre](https://www.linkedin.com/in/meghdeepsapre97/ "Meghdeep Sapre")
