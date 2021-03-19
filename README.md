@@ -81,8 +81,8 @@ and Flask framework.
 
 * Clone the project.
 * Run the following commands on command line : (make sure you are in same working directory)
-1. set FLASK_ENV=development
-2. set FLASK_APP=app
+1. set FLASK_APP=app
+2. set FLASK_ENV=development
 3. flask run
 
 ## Project created by :
